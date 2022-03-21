@@ -1,0 +1,4 @@
+module CSQLite {
+    umbrella "/Users/azamsharp/Desktop/Exercise Files/4-AddingSmartContracts/End/Blockchain-Server/.build/checkouts/sqlite.git--8232814251736334455/Sources/CSQLite/include"
+    export *
+}
